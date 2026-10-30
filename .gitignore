@@ -1,0 +1,11 @@
+**/CodeAntiguio/
+
+.vs/
+.vscode/
+.env
+env/
+__pycache__/
+bin/
+obj/
+Thumbs.db
+.DS_Store
